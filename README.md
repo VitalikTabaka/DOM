@@ -1,4 +1,4 @@
-# FL-DOM
+# DOM
 
  - You cannot change smth in index.html
  - Create the table of the students, which  has the following titles : “Student”(name + lastname), “email”, “Profile picture”, “Skils”, “controls”(edit, remove) . Hint:
