@@ -1,7 +1,7 @@
 # DOM
 
  - You cannot change smth in index.html
- - Create the table of the students, which  has the following titles : “Student”(name + lastname), “email”, “Profile picture”, “Skils”, “controls”(edit, remove) . Hint:
+ - Create the table of the students, which  has the following titles : “Student”(name + lastname), “email”, “Profile picture”, “Skills”, “controls”(edit, remove) . Hint:
   for remove use class ‘glyphicon glyphicon-trash’;
   for edit ‘glyphicon glyphicon-edit’;
   for table ‘table table-hover’.
